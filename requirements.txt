@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 requests
-tensorflow
 matplotlib
 scikit-learn
+tensorflow==2.12.1 
